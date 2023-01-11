@@ -1,3 +1,3 @@
 클론 저장소에서 추가
 
-git test 에서 수정
+test-cloned에서 변경한게 맞다
